@@ -1,0 +1,9 @@
+platform :ios, '9.0'
+target 'CarLite_iOS' do
+  
+   pod 'AFNetworking'
+   pod 'GoogleMaps','~> 2.7.0'
+   pod 'GooglePlaces','~> 2.7.0'
+   pod 'GooglePlacePicker','~> 2.7.0'
+
+end
